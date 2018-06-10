@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Sadə riyazi əməliyyatlar</string>
+  <string-array name="question_count">
+    <item>10</item>
+    <item>20</item>
+    <item>30</item>
+    <item>40</item>
+    <item>50</item>     
+  </string-array>
+  <string-array name="floor_count">
+    <item>Bir rəqəmli ədədlər</item>
+    <item>İki rəqəmli ədədlər</item>
+    <item>Üç rəqəmli ədədlər</item>  
+  </string-array>
+
+  <style name="CustomTheme" parent="@android:Theme.Holo.Light">
+    <item name="android:windowFullscreen">true</item>
+    <item name="android:actionBarSize">0dp</item>
+  </style>
+
+ 
+</resources>
