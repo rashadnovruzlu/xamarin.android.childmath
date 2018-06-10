@@ -6,6 +6,7 @@ using Android.Content;
 using System;
 using ChildMath.Model;
 
+
 namespace ChildMath
 {
     [Activity(Label = "Sadə riyazi əməliyyatlar", MainLauncher = true, Theme = "@style/CustomTheme", ScreenOrientation = Android.Content.PM.ScreenOrientation.Landscape)]
